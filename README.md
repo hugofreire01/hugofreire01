@@ -1,8 +1,5 @@
 <h1 align="left">👨🏿‍💻 Olá, me chamo Hugo Freire 👨🏿‍💻</h1>
 
-
-## 👨🏿‍💻 &nbsp;Apresentação 👨🏿‍💻
-
 - 💻 Desenvolvedor Front-End
 
 - 🌱 Atuamente estou estudando: JavaScript 
