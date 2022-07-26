@@ -1,5 +1,13 @@
 <h1 align="left">👨🏿‍💻 Olá, me chamo Hugo Freire 👨🏿‍💻</h1>
 
+
+## 📊 &nbsp;GitHub Análises📊
+
+<p align="left">
+<img width="420em" src="https://github-readme-stats.vercel.app/api?username=hugofreire01&show_icons=true&theme=dark" alt="hugofreire01 stats"/>
+<img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugofreire01&langs_count=10&layout=compact&theme=dark" alt="hugofreire01 stats"/>
+</p>
+
 - 💻 Desenvolvedor Front-End
 
 - 🌱 Atuamente estou estudando: JavaScript 
