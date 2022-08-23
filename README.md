@@ -10,9 +10,11 @@
 
 - 💻 Desenvolvedor Front-End
 
+- 🚀 Cursando Análise e Desenvolvimento de sistemas pela FMU
+
 - 🌱 Atuamente estou estudando: JavaScript 
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [HugoJomar Repositorios](https://github.com/hugofreire01?tab=repositories)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [Hugo Repositorios](https://github.com/hugofreire01?tab=repositories)
 
 - 📫 Como chegar até mim: https://www.linkedin.com/in/hugofreire01/
 
